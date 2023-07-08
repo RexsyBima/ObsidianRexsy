@@ -43,3 +43,6 @@ So in essence, JavaScript is an essential tool in a web developer's toolbox. Fro
 [[2 - JavaScript - Values]]
 [[3 - JavaScript - Variables]]
 [[4 - JavaScript - Data Types]]
+[[5 - JavaScript - Operators]]
+[[6 - JavaScript - Control Structures]]
+[[7 - JavaScript - Type Conversion and Coercion]]
