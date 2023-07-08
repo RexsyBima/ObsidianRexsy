@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"type":"file","file":"HTML/4.1 -HTML attributes - href.md","id":"dd0aee145716a2ed","x":600,"y":-620,"width":400,"height":400},
+		{"type":"file","file":"HTML/4.2-HTML attributes - tags - basics - action, method attributes.md","id":"88f80eef60405820","x":600,"y":-1080,"width":400,"height":400},
+		{"type":"file","file":"HTML/1-HTML Introduction.md","id":"5d65e23856eaf8d3","x":-1280,"y":-560,"width":400,"height":400},
+		{"type":"file","file":"HTML/5-HTML tags - basic.md","id":"1369fdd5947ab592","x":-680,"y":-1200,"width":400,"height":400},
+		{"type":"file","file":"HTML/4-HTML attributes - basics.md","id":"0d3fd9e6725554d0","x":-620,"y":-620,"width":400,"height":400},
+		{"type":"file","file":"HTML/5.5 -HTML tags - basic - lists.md","id":"eca2b2fc52a2de6c","x":-460,"y":-80,"width":400,"height":400},
+		{"type":"file","file":"HTML/5.6-HTML tags- basic - div and span.md","id":"80d8be4a7727a501","x":-680,"y":400,"width":400,"height":400},
+		{"type":"file","file":"HTML/4.3-HTML attributes - 4 must have attributes - for in label, placeholder in input, value in input, required in input.md","id":"eae043b11019a9d2","x":600,"y":-80,"width":400,"height":400},
+		{"type":"file","file":"HTML/5.1-HTML tags - basic - img (image) tag.md","id":"0082a6e9bb2a0196","x":-160,"y":-2720,"width":400,"height":400},
+		{"type":"file","file":"HTML/5.2-HTML tags - basic - formatting texts tags.md","id":"83f5f4f81af50d6e","x":-100,"y":-2240,"width":400,"height":400},
+		{"type":"file","file":"HTML/5.3-HTML tags - basic - table tags.md","id":"e1278b9004b26513","x":-160,"y":-1760,"width":400,"height":400},
+		{"type":"file","file":"HTML/5.4-HTML tags - basic - forms.md","id":"ca19d664f6154ad0","x":400,"y":-1600,"width":400,"height":400},
+		{"type":"file","file":"HTML/5.4.1-HTML tags - basics - forms - email, password, submit input type.md","id":"f9c81e28b4ad8a86","x":1000,"y":-3400,"width":400,"height":400},
+		{"type":"file","file":"HTML/5.4.2-HTML tags - basics - forms - label.md","id":"35fccc405023b169","x":1000,"y":-2920,"width":400,"height":400},
+		{"type":"file","file":"HTML/5.4.3-HTML tags - basics - forms - input tag - radio attribute.md","id":"63804312499ed2bd","x":1000,"y":-2440,"width":400,"height":400},
+		{"type":"file","file":"HTML/5.4.4-HTML tags - basic - forms - dropdown menu.md","id":"ed522e0e3dba7b72","x":1000,"y":-1960,"width":400,"height":400},
+		{"type":"file","file":"HTML/5.4.5-HTML tags - basic - forms - textarea.md","id":"c1d7e6a70a1b614f","x":1000,"y":-1480,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"cc8b4263bd4b4d67","fromNode":"5d65e23856eaf8d3","fromSide":"right","toNode":"eca2b2fc52a2de6c","toSide":"left"},
+		{"id":"fd9560bfff99b7f2","fromNode":"5d65e23856eaf8d3","fromSide":"bottom","toNode":"80d8be4a7727a501","toSide":"left"},
+		{"id":"150974884003b411","fromNode":"5d65e23856eaf8d3","fromSide":"top","toNode":"0d3fd9e6725554d0","toSide":"left"},
+		{"id":"8a9eec3638c5423b","fromNode":"5d65e23856eaf8d3","fromSide":"top","toNode":"1369fdd5947ab592","toSide":"left"},
+		{"id":"dd5b2575f0c057f9","fromNode":"0d3fd9e6725554d0","fromSide":"right","toNode":"dd0aee145716a2ed","toSide":"left"},
+		{"id":"59ff84e2dda0cd53","fromNode":"0d3fd9e6725554d0","fromSide":"right","toNode":"88f80eef60405820","toSide":"left"},
+		{"id":"43fe7d4bf2ddb59e","fromNode":"0d3fd9e6725554d0","fromSide":"right","toNode":"eae043b11019a9d2","toSide":"left"},
+		{"id":"ee23f3f23368aa3e","fromNode":"1369fdd5947ab592","fromSide":"right","toNode":"0082a6e9bb2a0196","toSide":"left"},
+		{"id":"79d8d868d802f4f7","fromNode":"1369fdd5947ab592","fromSide":"right","toNode":"83f5f4f81af50d6e","toSide":"left"},
+		{"id":"5bb7ccce4f973831","fromNode":"1369fdd5947ab592","fromSide":"right","toNode":"e1278b9004b26513","toSide":"left"},
+		{"id":"35304950e2ce0008","fromNode":"1369fdd5947ab592","fromSide":"right","toNode":"ca19d664f6154ad0","toSide":"left"},
+		{"id":"644a977ad090a8ca","fromNode":"ca19d664f6154ad0","fromSide":"right","toNode":"35fccc405023b169","toSide":"left"},
+		{"id":"cac61fcb1cc6ffe1","fromNode":"ca19d664f6154ad0","fromSide":"right","toNode":"63804312499ed2bd","toSide":"left"},
+		{"id":"4e74075b575c368b","fromNode":"ca19d664f6154ad0","fromSide":"right","toNode":"ed522e0e3dba7b72","toSide":"left"},
+		{"id":"b209f55d08ca2cab","fromNode":"ca19d664f6154ad0","fromSide":"right","toNode":"f9c81e28b4ad8a86","toSide":"left"},
+		{"id":"4860bc6e98a32796","fromNode":"ca19d664f6154ad0","fromSide":"right","toNode":"c1d7e6a70a1b614f","toSide":"left"}
+	]
+}
