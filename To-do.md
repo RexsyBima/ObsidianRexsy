@@ -33,3 +33,11 @@ Berikut adalah file yudisium yang dikirimkan ke email HI:
 7. Lembar pengesahan skripsi (ttd Dekan)= https://bit.ly/LayananAkademik_Gasal2022_2023
 8. Pas foto 3x4 dan 4x6
 9. Bukti upload UPT Repository Unsoed
+
+7Digital Amazon Anghami Apple Music & iTunes Audiomack AWA (Japan) Boomplay (Africa) ClaroMusica Deezer Flo iHeart Radio Instagram Stories (Facebook) JioSaavn (India) JOOX Kanjian (China) KKBOX Kuaishou Medianet/Audible Mixcloud Napster Netease (China) Opt-in to all future services Pandora Peloton Pretzel Qobuz Shazam Slacker Radio Spotify Tencent (QQ Music, Kugou, Kuwo) Tidal TikTok Trebel
+
+distrowave.com
+musicblast.com
+
+filter library bahasa indonesia 
+katalog UPC
