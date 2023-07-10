@@ -20,3 +20,7 @@ if (x * 2 > 10) { // 'x * 2 > 10' is an expression, 'if' statement contains this
 ```
 
 In conclusion, JavaScript programs are composed of a series of statements. Some of these statements (like `if` or `while`) contain expressions or even other statements. Expressions, on the other hand, compute values and are often parts of statements. Understanding these concepts will help you better understand the structure and syntax of JavaScript.
+
+**LINKS**
+[[9.1 - JavaScript - Expression]]
+[[9.2 - JavaScript - Statements]]

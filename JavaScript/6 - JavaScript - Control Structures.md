@@ -56,3 +56,6 @@ Sure thing, Rexsy! Control structures are a fundamental concept in any programmi
     ```
 
 Each of these control structures is crucial to being able to write complex, functional JavaScript programs. You'll likely use them in almost every piece of JavaScript code you write.
+
+**LINKS**
+[[6.1 - JavaScript - Control Structures - Conditional Statements]]
