@@ -59,3 +59,4 @@ Each of these control structures is crucial to being able to write complex, func
 
 **LINKS**
 [[6.1 - JavaScript - Control Structures - Conditional Statements]]
+[[6.2 - JavaScript - Control Structures - Loops]]
